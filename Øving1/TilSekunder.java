@@ -1,5 +1,6 @@
 public class TilSekunder {
     public static void main(String[] args){
+        // code med mulighet til å skrive in verdien selv for timer, minutter og sekunder. 
         // int timer = Integer.parseInt(args[0]);
         // int minutter = Integer.parseInt(args[1]);
         // int sekunder = Integer.parseInt(args[2]);
